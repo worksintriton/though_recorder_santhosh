@@ -1,1 +1,1 @@
-# though_recorder_santhosh
+# Thought-Recorder
